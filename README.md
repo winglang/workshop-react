@@ -31,7 +31,7 @@ See the [Demo hosted on AWS](https://d9lecxfcp4503.cloudfront.net/)
 
 ### Workshop Sessions
 
-1. [Why Even Fly? I'm Comfortable Where I Am](https://raw.githubusercontent.com/ekeren/react-wing-workshop/main/assets/why.pdf) - Problems with Serverless, and the Wing approach.
+1. [Why Even Fly? I'm Comfortable Where I Am](https://raw.githubusercontent.com/ekeren/react-wing-workshop/main/assets/why.pdf) - Problems with serverless, and the Wing approach.
 2. [It’s Nearly Time to Fly](./01-setup.md) - Install and verify the Winglang toolchain is working on our computer.
 3. [Prepare for Liftoff](./02-api.md) - Your second Wing program, getting to know cloud.Api.
 4. [Please Fasten Your Seat Belt](./03-react.md) - Blazing fast iteration cycles with React & Winglang.
