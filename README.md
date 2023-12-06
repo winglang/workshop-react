@@ -21,6 +21,13 @@ Please [join Winglang's Slack](https://t.winglang.io/slack); we have a dedicated
 - How to produce ready-to-apply Terraform assets.
 - How to create a preview environment using wing.cloud.
 
+### Some General Resources:
+
+- [Learn about Inflights](https://www.winglang.io/docs/concepts/inflights) - Preflight and Inflight are Winglang's most important core concepts.
+- [Cheat Sheet](./cheatsheet.md) - Let's learn Wing in 5 minutes, shall we?
+- [Language Reference](https://www.winglang.io/docs/language-reference) - A complete language reference for Winglang.
+- [Playground](https://www.winglang.io/play/) - Write and test Wing code online.
+
 ## The Application
 
 A Flat File System browser and backend, the file system allows only one hierarchy of folders, each folder can have multiple files. 
@@ -39,10 +46,14 @@ See the [Demo hosted on AWS](https://d9lecxfcp4503.cloudfront.net/)
 6. [Entering an Area of Turbulence](./05-db.md) - Modeling a FlatFileSystem using DynamoDB & cloud.Bucket.
 7. [Thank You for Flying with Us](./06-wrap.md) - Wrapping it all together.
 
-### Some General Resources:
-
-- [Learn about Inflights](https://www.winglang.io/docs/concepts/inflights) - Preflight and Inflight are Winglang's most important core concepts.
-- [Cheat Sheet](./cheatsheet.md) - Let's learn Wing in 5 minutes, shall we?
-- [Language Reference](https://www.winglang.io/docs/language-reference) - A complete language reference for Winglang.
-- [Playground](https://www.winglang.io/play/) - Write and test Wing code online.
 ---
+
+
+What's Next? **Serverless AI Workshop**
+
+[Register here](https://www.eventbrite.com/e/amazon-bedrock-winglang-tickets-769562721817)
+
+![image](https://github.com/winglang/workshop-react/assets/1727147/29ce76f4-abcb-44ad-8b70-9588f0f297e5)
+
+
+
