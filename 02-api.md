@@ -49,4 +49,5 @@ You can now use different options to verify that your API gateway is working:
   - Interactively test the `/hello` endpoint using your browser (by copying the URL from the right-hand side widget).
 - Run tests using the CLI `wing test backend/main.w`.
 
-🚀 Great, you just finished creating a simple "Hello World" web service. 🚀 
+🚀 Great, you just finished creating a simple "Hello World" web service. 🚀
+---
