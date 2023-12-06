@@ -93,6 +93,7 @@ In this session, we will use the FlatFileSystem module in our API and add the re
 
 🚀 Congratulations, you now have a running React + Wing website on Wing Cloud! 🚀
 
+
 7. Compile it to Terraform for AWS and apply it (requires Terraform CLI with configured AWS credentials):
    ```
    wing compile -t tf-aws backend/main.w
@@ -102,3 +103,4 @@ In this session, we will use the FlatFileSystem module in our API and add the re
    ```
 
 🚀 Congratulations, you now have a running React + Wing website on AWS! 🚀
+---
