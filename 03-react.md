@@ -124,5 +124,5 @@ function App() {
 export default App;
 ```
 
-🚀 Check that every change, either on the client side or the server side (like replacing the response of the title), will hot-reload your app. 🚀
+🚀 Check that every change, either on the client side or the server side will hot-reload your app. 🚀
 ---
