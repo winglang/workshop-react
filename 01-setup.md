@@ -52,4 +52,5 @@ Verify that the Wing toolchain is working as expected:
 wing run backend/main.w
 ```
 
-🚀 In the Wing Console, you can push messages to the Queue and observe the files created in the Bucket. 🚀 
+🚀 In the Wing Console, you can push messages to the Queue and observe the files created in the Bucket. 🚀
+---
