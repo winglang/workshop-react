@@ -125,3 +125,4 @@ export default App;
 ```
 
 🚀 Check that every change, either on the client side or the server side (like replacing the response of the title), will hot-reload your app. 🚀
+---
