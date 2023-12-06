@@ -88,7 +88,12 @@ In this session, we will use the FlatFileSystem module in our API and add the re
    BROWSER=none wing run backend/main.w
    ```
 
-5. Compile it to Terraform for AWS and apply it (requires Terraform CLI with configured AWS credentials):
+5. Commit all your changes into a new branch and create a pull request in Github, wing.cloud will create a preview env for it.
+6. If all checks out ok, and you are satisfied with the result, merge the branch into `main`, wing.cloud will generate a new version of your app.
+
+🚀 Congratulations, you now have a running React + Wing website on Wing Cloud! 🚀
+
+7. Compile it to Terraform for AWS and apply it (requires Terraform CLI with configured AWS credentials):
    ```
    wing compile -t tf-aws backend/main.w
    cd backend/target/main.tfaws
