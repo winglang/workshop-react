@@ -7,7 +7,7 @@ _Learn how to build a React.JS app with Wing_
 This repo is a step-by-step guide for an online workshop ([Eventbrite](https://www.eventbrite.com/e/winglang-react-workshop-tickets-754616256537)).
 
 ### Watch the recording
-A Recorded version of this workshop is available on youtube, [here](https://www.youtube.com/watch?v=LMDnTCRXzJU).
+You can find the recording of this workshop [here](https://www.youtube.com/watch?v=LMDnTCRXzJU).
 
 ## Any issues? Questions? Let's talk!
 
