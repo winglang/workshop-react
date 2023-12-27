@@ -1,10 +1,10 @@
-
 ---
+
 # React + Wing Workshop
 
 _Learn how to build a React.JS app with Wing_
 
-This repo is a step-by-step guide for an online workshop ([Eventbrite](https://www.eventbrite.com/e/winglang-react-workshop-tickets-754616256537)).
+This repository is a step-by-step guide for an online workshop ([Eventbrite](https://www.eventbrite.com/e/winglang-react-workshop-tickets-754616256537)).
 
 ### Watch the recording
 You can find the recording of this workshop [here](https://www.youtube.com/watch?v=LMDnTCRXzJU).
@@ -33,7 +33,7 @@ Please [join Winglang's Slack](https://t.winglang.io/slack); we have a dedicated
 
 ## The Application
 
-A Flat File System browser and backend, the file system allows only one hierarchy of folders, each folder can have multiple files. 
+A Flat File System browser and backend, the file system allows only one hierarchy of folders, each folder can have multiple files.
 
 See the [Demo hosted on AWS](https://d9lecxfcp4503.cloudfront.net/)
 
@@ -57,6 +57,3 @@ What's Next? **Serverless AI Workshop**
 [Register here](https://www.eventbrite.com/e/amazon-bedrock-winglang-tickets-769562721817)
 
 ![image](https://github.com/winglang/workshop-react/assets/1727147/29ce76f4-abcb-44ad-8b70-9588f0f297e5)
-
-
-
